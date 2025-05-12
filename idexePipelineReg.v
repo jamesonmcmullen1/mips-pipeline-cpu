@@ -5,7 +5,7 @@
 // 
 // Create Date: 04/19/2025 08:05:42 PM
 // Project Name: Lab 5
-// Module Name: indexePipelineReg
+// Module Name: idexePipelineReg
 //////////////////////////////////////////////////////////////////////////////////
 
 
