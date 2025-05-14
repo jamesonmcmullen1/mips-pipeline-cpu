@@ -83,15 +83,5 @@ This repository includes **only original work** I wrote as part of my individual
 
 **Jameson McMullen**  
 Computer Engineering @ Penn State  
-[LinkedIn](https://www.linkedin.com/in/mcvolution)  
+[LinkedIn](www.linkedin.com/in/jameson-mcmullen-472669325)  
 GitHub: [@jamesonmcmullen1](https://github.com/jamesonmcmullen1)
-
----
-
-##Future Work
-
-Possible extensions include:
-- Hazard detection and forwarding logic  
-- Branch prediction implementation  
-- Pipeline stalling and flushing mechanisms  
-- Integration with I/O and peripheral simulation  
